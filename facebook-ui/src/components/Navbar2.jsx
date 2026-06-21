@@ -1,0 +1,37 @@
+import React from 'react'
+const Navbar2 = () => {
+  return (
+    <div className='flex justify-between p-3 px-5 '>
+       <div className='flex gap-5'>
+        <img className="w-12 rounded-full" src="data:image/jpeg;base64,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" alt="img"></img>
+        <select>
+            <option>Features </option>
+        </select>
+        <select>
+            <option>What's it for</option>
+        </select>
+         <select>
+            <option>Resources</option>
+        </select>
+        <p className='py-2.5'>Prising</p>
+       </div>
+       <div className='flex gap-5'>
+           <button className='bg-amber-400 text-white text-sm p-2 rounded-xl'>
+                Call Back
+           </button>
+           <div className='flex text-sm gap-5 py-2.5 underline'>
+            <p >
+                CONTACT US
+            </p>
+               <ul>LOGIN</ul>
+           
+           </div>
+           <button className='bg-emerald-500 text-white text-sm p-2 rounded-xl'>
+                TRY IT FREE
+           </button>
+       </div>
+    </div>
+  )
+}
+
+export default Navbar2
