@@ -21,7 +21,7 @@ const Navbar2 = () => {
            </button>
            <div className='flex text-sm gap-5 py-2.5 underline'>
             <p >
-                CONTACT US
+                CONTACT US 
             </p>
                <ul>LOGIN</ul>
            

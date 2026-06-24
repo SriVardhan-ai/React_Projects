@@ -12,7 +12,7 @@ const Section2 = () => {
   },
   {
     title: "Freelancer",
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBN1wZCAQ2BBLRf-2fdP8J-pjdWT3YHIhl-oT-nfnGw&s=10"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-r-pw8geCmUqQz_blPXfOe3WNPMvWsIQ72C5jCgA4Kw&s=10"
   },
   {
     title: "Startup",
